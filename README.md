@@ -1,5 +1,7 @@
 # Bikesharing
 
+Link to Tableau Public workbook: https://public.tableau.com/shared/JK5GX2KTF?:display_count=n&:origin=viz_share_link
+
 ## Purpose of Analysis
 
 The purpose of this analysis is to determine baseline understandings and benchmarks of the bikeshare industry to have more information before creating a bikeshare option in a new city. By using existing data from CitiBike in NYC, we are able to see who uses bikeshare options, how they use the bikes, and much more. Because NYC is the largest metropolitan area that uses bikeshare, this gives us a great place to start to understand how to launch a similar idea in a smaller area.
