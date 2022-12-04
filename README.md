@@ -31,7 +31,7 @@ Finally, our last dashboard in our story shows bike checkout times by trip and g
 
 ## Summary
 
-Overall, the results show us two major trends: one, males use bikesharing options more frequently, and are also more likely to be a subscriber to the service as opposed to a one-time user. Two, bikesharing is very popular during traditional commute hours of the weekday. This indicates that bikesharing is a viable option for many people to use in place of other public transit or a car. However, based on usage on the weekends, bikesharing is a widely used transportation option of for leisure activities.
+Overall, the results show us two major trends: one, males use bikesharing options more frequently, and are also more likely to be a subscriber to the service as opposed to a one-time user. Two, bikesharing is very popular during traditional commute hours of the weekday. This indicates that bikesharing is a viable option for many people to use in place of other public transit or a car. However, based on usage on the weekends, bikesharing is a widely used transportation option for leisure activities.
 
 Two additional visualizations that I would recommend for future analysis include:
 
