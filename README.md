@@ -22,7 +22,7 @@ This next screenshot depicts an hourly breakdown of trips by gender. The darker 
 
 
 
-Here, we can see a similar breakdown as the screenshot prior, but in the purple graph to the left, it is a combination of all genders in one. Here we can see the most popular times to take a trip on a CitiBike by hour. It looks like Thursdays from 5-7pm are quite popular no matter the gender. The blue graph shows us trips by gender by weekday with a filter option of user type. We can see here that there are many more users who are subscribers, especially males. Additionally, we can see that Thursdays are the most popular day among male subscribers to use CitiBike. For females, Saturday.
+Here, we can see a similar breakdown as the screenshot prior, but in the purple graph to the left, it is a combination of all genders in one. Here we can see the most popular times to take a trip on a CitiBike by hour. It looks like Thursdays from 5-7pm are quite popular no matter the gender. The blue graph shows us trips by gender by weekday with a filter option of user type. We can see here that there are many more users who are subscribers, especially males. Additionally, we can see that Thursdays are the most popular day among male subscribers to use CitiBike. For females, Saturday and Thursday are popular days.
 
 
 ![Screen Shot 2022-12-04 at 3 37 54 PM](https://user-images.githubusercontent.com/110838228/205514277-0d4d9b15-2b34-4dcb-a12a-030d20e62d9c.png)
